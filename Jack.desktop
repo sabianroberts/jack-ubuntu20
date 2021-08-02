@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1.1064
+Type=Application
+Name=Jack
+GenericName=Jack
+Comment=J.A.C.K. (VDK)
+Exec=/home/sabian/JACK/Jack.sh
+Path=/home/sabian/JACK/
+Icon=/home/sabian/JACK/Jack.xpm
+X-Window-Icon=/home/sabian/JACK/Jack.xpm
+Terminal=0
+Categories=Utility;Application;
